@@ -8,6 +8,9 @@ apiset: server
 BOOL STOP_RESOURCE(char* resourceName);
 ```
 
+```
+Only server function. 
+```
 
 ## Parameters
 * **resourceName**: 
